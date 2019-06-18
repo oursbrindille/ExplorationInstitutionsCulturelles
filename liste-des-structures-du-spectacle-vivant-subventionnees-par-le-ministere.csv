@@ -1,0 +1,380 @@
+Structure;NOM1;NOM2;ADRESSE1;ADRESSE2;CP;VILLE;Longitude;Latitude;coordonnees_geoloc;coordonnees_ban;coordonnees_finales;Région
+Opéra en région;Opéra National de Lyon;;1 place de la Comédie;;66203;LYON Cedex;4.837869;45.76813999999999;45.76813999999999,4.837869;;45.76814, 4.837869;Auvergne-Rhône-Alpes
+Opéra en région;Opéra de Marseille;;2 rue Molière;;13001;MARSEILLE;5.375878000000001;43.293934999999976;43.293934999999976,5.375878000000001;43.293839, 5.376004;43.293935, 5.375878;Provence-Alpes-Côte d'Azur
+Opéra en région;Angers-Nantes Opera (Ano);;1 rue Molière;;44000;NANTES;-1.561901;47.21400499999999;47.21400499999999,-1.561901;47.213652, -1.561991;47.214005, -1.561901;Pays de la Loire
+Opéra en région;Opéra National du Rhin;;19 place de la Broglie;B.P. 320;67008;STRASBOURG;7.749568;48.58496000000001;48.58496000000001,7.749568;;48.58496, 7.749568;Grand Est
+Opéra en région;Opéra de Rouen/Haute Normandie;;7 rue du Docteur Rambert;B.P. 1253;76177;ROUEN Cedex;1.089818;49.439491000000004;49.439491000000004,1.089818;;49.439491, 1.089818;Normandie
+Opéra en région;Opéra de Tours;;34 rue de la Sellerie;;37000;TOURS;0.690005;47.394377999999996;47.394377999999996,0.690005;47.394422, 0.689971;47.394378, 0.690005;Centre-Val de Loire
+Centre chorégraphique national;Centre chorégraphique national de Créteil et du Val-de-Marne;;Maison des Arts Place Salvador Allende;;94000;Créteil;2.4579109999999997;48.800463;48.800463,2.4579109999999997;;48.800463, 2.457911;Île-de-France
+Centre chorégraphique national;Centre chorégraphique national à La Rochelle;;Chapelle Fromentin;14, rue du collège;17025;La Rochelle cedex 1;-1.17311;46.159895;46.159895,-1.17311;;46.159895, -1.17311;Nouvelle-Aquitaine
+Centre chorégraphique national;Ballet national de Marseille;;20, bd de Gabès;;13417;Marseille Cedex 08;5.383504;43.265056;43.265056,5.383504;;43.265056, 5.383504;Provence-Alpes-Côte d'Azur
+Centre chorégraphique national;Centre chorégraphique national de Montpellier Languedoc-Roussillon];;Les Ursulines;Boulevard Louis Blanc;34000;Montpellier;3.878514;43.613803;43.613803,3.878514;43.611024, 3.875521;43.613803, 3.878514;Occitanie
+Centre chorégraphique national;Ballet de Lorraine;;3, rue Henri Bazin;;54010;Nancy cedex;6.1905149999999995;48.695758;48.695758,6.1905149999999995;;48.695758, 6.190515;Grand Est
+Centre chorégraphique national;Centre chorégraphique national d' Orléans;;37, rue du Bourdon blanc;;45000;Orléans;1.9131499999999997;47.902204;47.902204,1.9131499999999997;47.902216, 1.91311;47.902204, 1.91315;Centre-Val de Loire
+Centre chorégraphique national;Centre chorégraphique national de Rennes et de Bretagne;;38, rue Saint-Mélaine;;35060;Rennes Cedex 3;-1.6754649999999998;48.114799;48.114799,-1.6754649999999998;;48.114799, -1.675465;Bretagne
+Orchestre Permanent;Orchestre Philharmonique de Strasbourg;;Place de Bordeaux-Wacken;Palais de la Musique et des Congrès;67076;Strasbourg Cedex;7.786679;48.622814;48.622814,7.786679;;48.622814, 7.786679;Grand Est
+Orchestre Permanent;Orchestre d'Auvergne;;La Diode - 190/194, boulevard Gustave Flaubert;;63000;Clermont-Ferrand;3.122875;45.770512;45.770512,3.122875;45.766259, 3.125066;45.770512, 3.122875;Auvergne-Rhône-Alpes
+Orchestre Permanent;Orchestre national de Montpellier Languedoc-Roussillon;;Le Corum;BP 9056;34041;Montpellier;3.882074;43.613244;43.613244,3.882074;;43.613244, 3.882074;Occitanie
+Orchestre Permanent;Orchestre national du Capitole de Toulouse;;Halle aux Grains - Place Dupuy;;31000;TOULOUSE;1.4543900000000003;43.599574999999994;43.599574999999994,1.4543900000000003;;43.599575, 1.45439;Occitanie
+FRAC;Fonds régional d'art contemporain BOURGOGNE;;49, rue de Longvic;;21000;DIJON;;;;47.311897, 5.0468;47.311897, 5.0468;Bourgogne-Franche-Comté
+FRAC;Fonds régional d'art contemporain LANGUEDOC-ROUSSILLON;;4 rue Rimbaud;;34000;MONTPELLIER;;;;43.613815, 3.889162;43.613815, 3.889162;Occitanie
+FRAC;Fonds régional d'art contemporain LORRAINE;49 NORD 6 EST;1 bis, rue des Trinitaires;;57000;METZ;;;;49.120613, 6.179196;49.120613, 6.179196;Grand Est
+FRAC;Fonds régional d'art contemporain REUNION;;9 Allée des Flamboyants;²;97424;Piton Saint-Leu;;;;-21.201058, 55.295168;-21.201058, 55.295168;
+Centre national des arts de la rue;Le Parapluie;;20, rue de la Coste;BP 205;15002;AURILLAC cedex;2.469214;44.96161399999999;44.96161399999999,2.469214;;44.961614, 2.469214;Auvergne-Rhône-Alpes
+Centre national des arts de la rue;La Paperie;;Rue de la Paperie;;49124;SAINT BARTHELEMY D'ANJOU;-0.512408;47.46310599999999;47.46310599999999,-0.512408;47.466077, -0.509353;47.463106, -0.512408;Pays de la Loire
+Centres nationaux de création musicale;CIRM : Centre international de recherches musicales;;33 avenue Jean Médecin;;6000;Nice;7.2666879999999985;43.702544;43.702544,7.2666879999999985;;43.702544, 7.266688;Provence-Alpes-Côte d'Azur
+Centres nationaux de création musicale;GMEA : Groupe de musique expérimentale d’Albi;;4, rue Sainte Claire;;81000;Albi;2.1458459999999997;43.929421;43.929421,2.1458459999999997;43.929383, 2.145801;43.929421, 2.145846;Occitanie
+Pôle cirque;Cirque Jules Verne;;Place Longueville;BP 2720;80000;AMIENS;;;;49.887688, 2.29558;49.887688, 2.29558;Hauts-de-France
+Pôle cirque;La Brèche;;Rue de la Chasse verte;BP 238;50100;CHERBOURG-EN-COTENTIN;;;;49.631699, -1.60191;49.631699, -1.60191;Normandie
+Pôle cirque;Le Sirque;;Château de Nexon;BP 20;87800;NEXON;;;;45.670013, 1.117333;45.670013, 1.117333;Nouvelle-Aquitaine
+Scène Nationale;Maison de la Culture d’Amiens - Scène nationale;;2, Place Léon Gontier;BP 0631;80000;AMIENS;2.293111;49.89419199999999;49.89419199999999,2.293111;49.89407, 2.292451;49.894192, 2.293111;Hauts-de-France
+Scène Nationale;Scène nationale de Bayonne et du Sud Aquitaine;;1, rue Edouard Ducere;;64100;BAYONNE;-1.475698;43.49295900000001;43.49295900000001,-1.475698;43.493037, -1.475498;43.492959, -1.475698;Nouvelle-Aquitaine
+Scène Nationale;Maison de la Culture de Bourges;;Place André Malraux;BP 257;18000;BOURGES Cedex;2.401528;47.06516500000001;47.06516500000001,2.401528;47.067036, 2.390459;47.065165, 2.401528;Centre-Val de Loire
+Scène Nationale;Le Channel - Scène nationale;;173, boulevard Gambetta;BP 77;62100;CALAIS Cedex;1.8526950000000002;50.947493999999985;50.947493999999985,1.8526950000000002;50.946054, 1.839457;50.947494, 1.852695;Hauts-de-France
+Scène Nationale;L’Equinoxe - Scène nationale;;CS 60306, Avenue Charles de Gaulle;BP 306;36000;CHATEAUROUX;1.693225;46.80716699999999;46.80716699999999,1.693225;46.808249, 1.691556;46.807167, 1.693225;Centre-Val de Loire
+Scène Nationale;DSN (Dieppe - Scène Nationale);;1, Quai Bérigny;;76200;DIEPPE;1.081686;49.922206999999986;49.922206999999986,1.081686;49.922094, 1.081377;49.922207, 1.081686;Normandie
+Scène Nationale;L'Arc - Scène nationale;;Esplanade François Mitterrand;BP 5;71200;LE CREUSOT Cedex;4.430211;46.806533999999985;46.806533999999985,4.430211;46.80645, 4.429984;46.806534, 4.430211;Bourgogne-Franche-Comté
+Scène Nationale;Théâtre du Merlan - Scène nationale;;Avenue Raimu;BP 153;13307;MARSEILLE Cedex 14;5.398464;43.331385000000004;43.331385000000004,5.398464;;43.331385, 5.398464;Provence-Alpes-Côte d'Azur
+Scène Nationale;Scène nationale de Petit-Quevilly/Mont-Saint-Aignan;;rue François Mitterrand;BP 14;76141;PETIT-QUEVILLY Cedex;1.058548;49.425514;49.425514,1.058548;;49.425514, 1.058548;Normandie
+Scène Nationale;La Rose des Vents - Scène nationale;;Boulevard Van Gogh;;59650;VILLENEUVE D’ASCQ;3.150994;50.64033199999998;50.64033199999998,3.150994;50.622184, 3.132038;50.640332, 3.150994;Hauts-de-France
+Centre d’art;LE CREUX DE L'ENFER;CENTRE D'ART CONTEMPORAIN;Vallée des Usines;;63300;THIERS;;;;45.851689, 3.544298;45.851689, 3.544298;Auvergne-Rhône-Alpes
+Centre d’art;LE QUARTIER;CENTRE D'ART CONTEMPORAIN;10, esplanade François Miterrand;;29000;QUIMPER;;;;47.996199, -4.10972;47.996199, -4.10972;Bretagne
+Centre d’art;LE 10 NEUF  CENTRE D'ART CONTEMPORAIN;;19, avenue des Alliés;;25200;MONTBÉLIARD CEDEX;;;;47.510623, 6.800619;47.510623, 6.800619;Bourgogne-Franche-Comté
+Centre d’art;LE SPOT - CENTRE D'ART CONTEMPORAIN;;32, rue Jules Lecesne;;76600;LE HAVRE;;;;49.493657, 0.1141;49.493657, 0.1141;Normandie
+Centre d’art;LE PLATEAU;;33 rue des Alouettes;;75019;PARIS;;;;48.878195, 2.385454;48.878195, 2.385454;Île-de-France
+Centre d’art;CENTRE INTERNATIONAL DES ARTS ET DU;PAYSAGE DE VASSIVIÈRE-EN-LIMOUSIN;Ile de Vassivière;;87120;BEAUMONT DU LAC;;;;45.799741, 1.864969;45.799741, 1.864969;Nouvelle-Aquitaine
+Centre d’art;ABBAYE SAINT-ANDRÉ - CENTRE D'ART;CONTEMPORAIN;Place du Bûcher;;19250;MEYMAC;;;;45.535139, 2.147698;45.535139, 2.147698;Nouvelle-Aquitaine
+Centre d’art;LE BBB;;96, rue Michel-Ange;;31200;TOULOUSE;;;;43.626865, 1.447559;43.626865, 1.447559;Occitanie
+Centre d’art;LES ABATTOIRS - MUSÉE D'ART MODERNE;ET CONTEMPORAIN - FRAC MIDI-PYRÉNÉES;76, allée Charles de Fitte;;31300;TOULOUSE;;;;43.600678, 1.428998;43.600678, 1.428998;Occitanie
+Centre d’art;ATELIERS DE L'IMPRIME;CENTRE D'ART CONTEMPORAIN;12 rue Taupanne;;86100;CHÂTELLERAULT;;;;46.819975, 0.543428;46.819975, 0.543428;Nouvelle-Aquitaine
+Centre d’art;ESPACE DE L'ART CONCRET;;Château de Mouans;;6370;MOUANS-SARTOUX;;;;43.620041, 6.969023;43.620041, 6.969023;Provence-Alpes-Côte d'Azur
+Centre d’art;COLLECTION LAMBERT EN AVIGNON;MUSÉE D'ART CONTEMPORAIN;5, rue Violette;;84000;AVIGNON;;;;43.944956, 4.804371;43.944956, 4.804371;Provence-Alpes-Côte d'Azur
+SMAC;La Laiterie;La laiterie Artefact PRL;13, rue du Hohwald;;67000;STRASBOURG;;;;48.576071, 7.729923;48.576071, 7.729923;Grand Est
+SMAC;Jazzdor;Jazzdor Festival;25, rue des Frères;;67000;STRASBOURG;;;;48.582945, 7.753095;48.582945, 7.753095;Grand Est
+SMAC;L'Orange Bleue;Bords 2 Scènes;4 rue Auguste Choisy;Quartier des Bords de marne;51300;VITRY-LE-FRANCOIS;;;;48.726411, 4.578533;48.726411, 4.578533;Grand Est
+SMAC;SMAC d'agglomération Bordelaise : Le Rocher de Palmer;;1, rue Aristide Briand;;33150;saint nazaire;;;;44.861266, -0.523474;44.861266, -0.523474;Nouvelle-Aquitaine
+SMAC;Le Carré Bleu;Association Jazz à Poitiers;2 place Aristide Briand;C/o la Maison du Coin,;86000;POITIERS;;;;46.580464, 0.335706;46.580464, 0.335706;Nouvelle-Aquitaine
+SMAC;Le Confort Moderne;L'Oreille est hardie;185, faubourg du Pont Neuf;;86000;POITIERS;;;;46.572692, 0.359674;46.572692, 0.359674;Nouvelle-Aquitaine
+SMAC;SMAC Ardèche (La Presqu'ïle/Cavajazz);Association de gestion de la Smac ardéchoise;Quartier Fontanes;;7100;ANNONAY;;;;45.236866, 4.673671;45.236866, 4.673671;Auvergne-Rhône-Alpes
+SMAC;Le Silex/ Jazz Club d'Auxerre;Service Compris;7, rue de l'ïle aux plaisirs;cité des Musiques;89000;AUXERRE;;;;47.795498, 3.58031;47.795498, 3.58031;Bourgogne-Franche-Comté
+SMAC;CC Paul Bailliart;;6, Allée de Québec;;91300;MASSY;;;;48.730561, 2.28347;48.730561, 2.28347;Île-de-France
+SMAC;Les Docks;EPCI;430 allée des soupirs;;46000;CAHORS;;;;44.444665, 1.433007;44.444665, 1.433007;Occitanie
+SMAC;Le Grand Mix;Association la Passerelle;25, rue du Calvaire;;59200;TOURCOING;;;;50.725859, 3.15489;50.725859, 3.15489;Hauts-de-France
+SMAC;La Grange à Musique;;16 Boulevard Salvador Allende;Service culture BP 76;60100;CREIL;;;;49.250057, 2.474793;49.250057, 2.474793;Hauts-de-France
+SMAC;Le Pannonica;NAJA Association Nantes Jazz Action;9 Rue Basse Porte;;44000;NANTES;;;;47.221054, -1.558417;47.221054, -1.558417;Pays de la Loire
+SMAC;Le 6 par 4;association Poc Pok;177, rue du Vieux Saint-Louis;;53000;LAVAL;;;;48.07895, -0.771392;48.07895, -0.771392;Pays de la Loire
+SMAC;Tandem;Association Tandem;19, rue Paul Lendrin BP 715;;83000;TOULON;;;;43.123154, 5.934153;43.123154, 5.934153;Provence-Alpes-Côte d'Azur
+SMAC en cours de labellisation;La Boite à musique BAM / Les Trinitaires;EPCC Metz en Scènes;20 boulevard d'Alsace;;57000;METZ;;;;49.116896, 6.184895;49.116896, 6.184895;Grand Est
+SMAC en cours de labellisation;SMAC le 109;;Rue Ernest Montusés;;3100;MONTLUCON;;;;46.323318, 2.61987;46.323318, 2.61987;Auvergne-Rhône-Alpes
+Centre Dramatique National;NOUVEAU THEATRE DE BESANCON;CENTRE DRAMATIQUE NATIONAL DE FRANCHE-COMTE;Parc du Casino;;25000;BESANCON;5.97059;47.21801500000001;47.21801500000001,5.97059;47.218012, 5.971403;47.218015, 5.97059;Bourgogne-Franche-Comté
+Centre Dramatique National;THEATRE DE GENNEVILLIERS;;41, avenue des Grésillons;;92230;GENNEVILLIERS;2.300153;48.914310000000015;48.914310000000015,2.300153;48.914234, 2.299722;48.91431, 2.300153;Île-de-France
+Centre Dramatique National;CENTRE DRAMATIQUE NATIONAL DES ALPES;;4, rue Paul Claudel;B.P. 2448;38034;GRENOBLE CEDEX 2;5.732392000000001;45.17164;45.17164,5.732392000000001;;45.17164, 5.732392;Auvergne-Rhône-Alpes
+Centre Dramatique National;THEATRE NATIONAL DE MARSEILLE;TNM La Criée;30, quai de Rive Neuve;;13284;MARSEILLE CEDEX 7;5.368406000000001;43.29278599999999;43.29278599999999,5.368406000000001;;43.292786, 5.368406;Provence-Alpes-Côte d'Azur
+Centre Dramatique National;THEATRE DE NANTERRE-AMANDIERS;;7, avenue Pablo Picasso;;92022;NANTERRE Cedex;2.214392;48.892013;48.892013,2.214392;;48.892013, 2.214392;Île-de-France
+Centre Dramatique National;THEATRE NATIONAL DE NICE;;Promenade des Arts;;6300;NICE;7.275861;43.70619500000002;43.70619500000002,7.275861;;43.706195, 7.275861;Provence-Alpes-Côte d'Azur
+Centre Dramatique National;THEATRE GERARD PHILIPE;;59, boulevard Jules Guesde;;93207;SAINT-DENIS Cedex 1;2.36645;48.932616999999986;48.932616999999986,2.36645;;48.932617, 2.36645;Île-de-France
+Centre Dramatique National;THEATRE DE SARTROUVILLE;;Place Jacques Brel;B.P. 93;78505;SARTROUVILLE CEDEX;2.19415;48.940145;48.940145,2.19415;;48.940145, 2.19415;Île-de-France
+Centre Dramatique National;CENTRE DRAMATIQUE DE THIONVILLE-LORRAINE;;rue Pasteur;;57103;THIONVILLE CEDEX;6.163636;49.361425;49.361425,6.163636;;49.361425, 6.163636;Grand Est
+Centre Dramatique National;LA COMEDIE DE VALENCE;Centre dramatique national Drôme-Ardèche;Place Charles-Huguenel;;26000;VALENCE;4.892212;44.934492999999996;44.934492999999996,4.892212;44.934549, 4.892308;44.934493, 4.892212;Auvergne-Rhône-Alpes
+Scène Nationale;L’Athanor - Scène nationale;;Place de l’Amitié entre les Peuples;BP 49;81000;ALBI;2.16053;43.933453000000014;43.933453000000014,2.16053;43.923796, 2.144604;43.933453, 2.16053;Occitanie
+Scène Nationale;Le Cratère - Théâtre d’Alès en Cévennes;;Square Pablo Néruda, Place Barbusse;;30100;ALES EN CEVENNES;4.081487;44.125138;44.125138,4.081487;;44.125138, 4.081487;Occitanie
+Scène Nationale;Théâtre Jean Lurçat - Scène nationale;;Avenue des Lissiers;BP 11;23200;AUBUSSON;2.168553;45.954685999999995;45.954685999999995,2.168553;45.95457, 2.170185;45.954686, 2.168553;Nouvelle-Aquitaine
+Scène Nationale;Espace Besançon Planoise - Scène nationale;;Place de l’Europe;BP 2033;25050;BESANÇON Cedex;5.973351;47.217925999999984;47.217925999999984,5.973351;;47.217926, 5.973351;Bourgogne-Franche-Comté
+Scène Nationale;MC93 - Scène nationale;;1, boulevard Lénine;BP 71;93000;BOBIGNY Cedex;2.4401029999999997;48.90646699999999;48.90646699999999,2.4401029999999997;48.90655, 2.441855;48.906467, 2.440103;Île-de-France
+Scène Nationale;Le Quartz - Scène nationale;;2-4, avenue Clémenceau;BP 411;29200;BREST Cedex;-4.491028;48.392779999999995;48.392779999999995,-4.491028;48.38914, -4.48448;48.39278, -4.491028;Bretagne
+Scène Nationale;L'Apostrophe - Scène nationale;;Place des Arts;BP 307;95000;CERGY-PONTOISE Cedex;;;;49.036322, 2.078656;49.036322, 2.078656;Île-de-France
+Scène Nationale;Le Trident - Scène nationale;;Place du Général de Gaulle;BP 807;50100;CHERBOURG Cedex;-1.6337840000000001;49.63975300000002;49.63975300000002,-1.6337840000000001;49.638093, -1.622482;49.639753, -1.633784;Normandie
+Scène Nationale;Culture commune - Scène nationale;;11/19, rue de Bourgogne;;62750;LOOS-EN-GOHELLE;2.787572;50.441917;50.441917,2.787572;50.442657, 2.789213;50.441917, 2.787572;Hauts-de-France
+Scène Nationale;Lieu Unique - Scène nationale;;2, rue de la Biscuiterie;BP 21304;44000;NANTES Cedex 1;-1.54477;47.21529000000002;47.21529000000002,-1.54477;47.215155, -1.545073;47.21529, -1.54477;Pays de la Loire
+Scène Nationale;Théâtre et Auditorium de Poitiers;;1, place du Maréchal Leclerc;;86000;POITIERS;0.339617;46.580512999999996;46.580512999999996,0.339617;46.580669, 0.339687;46.580513, 0.339617;Nouvelle-Aquitaine
+Scène Nationale;Le théâtre de Saint-Nazaire;;Rue des frères Pereire;BP 150;44600;SAINT-NAZAIRE;-2.254286;47.26774199999999;47.26774199999999,-2.254286;47.297148, -2.195976;47.267742, -2.254286;Pays de la Loire
+Scène Nationale;Théâtre de Saint-Quentin-en-Yvelines;;3 Place Georges Pompidou;MONTIGNY-LE-BRETONNEUX;78180;Montigny-le-Bretonneux;;;;48.783134, 2.043367;48.783134, 2.043367;Île-de-France
+Scène Nationale;Le Parvis / Scène nationale Tarbes-Pyrénées;Centre Méridien;Centre Commercial Le Méridien, Route de Pau;;65420;IBOS;-0.008175;43.242247999999975;43.242247999999975,-0.008175;43.241052, 0.019087;43.242248, -0.008175;Occitanie
+Scène Nationale;Lux - Scène nationale;;36, boulevard du Général de Gaulle;;26000;VALENCE;4.894301;44.93031399999999;44.93031399999999,4.894301;44.930191, 4.893946;44.930314, 4.894301;Auvergne-Rhône-Alpes
+Scène Nationale;Centre Culturel André Malraux / Scène nationale de Vandoeuvre;;1, place de l'Hôtel de Ville;BP 126;54500;VANDOEUVRE-LES-NANCY;6.172584999999999;48.660616;48.660616,6.172584999999999;48.65993, 6.17261;48.660616, 6.172585;Grand Est
+SMAC;Des lendemains qui chantent;Asso.de Lendemains qui chantent;Avenue du Lieutenant Colonel;Faro L'Auzelou;19000;TULLE;;;;45.280697, 1.786088;45.280697, 1.786088;Nouvelle-Aquitaine
+SMAC;La Sirène;XLR Espace musiques actuelles/  La Palice;111, boulevard Emile Delmas;La Pallice;17000;LA ROCHELLE;;;;46.160488, -1.215798;46.160488, -1.215798;Nouvelle-Aquitaine
+SMAC;Le Normandy;Ecran Sonique;Place du Champ de Mars;bp 330 -;50000;ST LO;;;;49.116174, -1.087574;49.116174, -1.087574;Normandie
+SMAC;La Cave à Musique;Association Luciol;119, rue Boullay;;71000;MACON;;;;46.300907, 4.825409;46.300907, 4.825409;Bourgogne-Franche-Comté
+SMAC;Le Moulin de Brainans;Association Promodegel;;C/O association Promidégel, BP 45;39800;BRAINANS;;;;46.869925, 5.622268;46.869925, 5.622268;Bourgogne-Franche-Comté
+SMAC;Antipode (projet SMAC d'agglomération rennaise);MJC Cleunay;2, rue A Trasbot;MJC Antipode,;35000;RENNES;;;;48.100842, -1.708982;48.100842, -1.708982;Bretagne
+SMAC;Les Bains Douches;Association Les Bains Douches;Place Anne Sylvestre;C/O Les Bains Douches;18160;LIGNIERES;;;;;;
+SMAC;La Clef;Association pour la culture, les loisirs et la formation;46, rue de Mareil;;78100;SAINT-GERMAIN-EN-LAYE;;;;48.894016, 2.088918;48.894016, 2.088918;Île-de-France
+SMAC;La Gespe;Gespe animations et spectacles;23, rue Paul Cézanne;;65000;TARBES;;;;43.225966, 0.058536;43.225966, 0.058536;Occitanie
+SMAC;Vip;Les Escales de Saint-Nazaire;Boulevard de la légion d'honneur;Alvéole 14;44600;SAINT-NAZAIRE;;;;47.275161, -2.204005;47.275161, -2.204005;Pays de la Loire
+SMAC;Le Cabaret Aléatoire SMAC d'agglomération marseillaise;association Autokab;41 rue Jobin;;13003;MARSEILLE;;;;43.309625, 5.390326;43.309625, 5.390326;Provence-Alpes-Côte d'Azur
+SMAC;Le Kabardock;Assocation l'AGEMA;60, rue Mahé de Labourdonnais;;97420;LE PORT;;;;-20.94048, 55.293874;-20.94048, 55.293874;
+SMAC en cours de labellisation;MJC du Verdunois;La Passerelle;2 place André Maginot;;55430;BELLEVILLE-SUR-MEUSE;;;;49.175299, 5.379429;49.175299, 5.379429;Grand Est
+SMAC en cours de labellisation;L'Abordage;Association Abordage;1, avenue Aristide Briand;;27000;EVREUX;;;;49.021706, 1.137817;49.021706, 1.137817;Normandie
+SMAC en cours de labellisation;Le Tétris;Papa's production;55, rue de 329 RI;Fort de Tourneville /;76620;LE HAVRE;;;;49.519412, 0.101015;49.519412, 0.101015;Normandie
+SMAC en cours de labellisation;Le Plan – Communauté d'agglomération Evry Centre Essonne;;500 PLACE DES Champs Elysées –;BP 62 Courcouronnes;91000;EVRY;;;;48.640728, 2.432558;48.640728, 2.432558;Île-de-France
+SMAC en cours de labellisation;Le Forum;Commune de Vauréal;Boulevard de l’Oise;;95490;VAUREAL;;;;49.02959, 2.022081;49.02959, 2.022081;Île-de-France
+SMAC en cours de labellisation;Le Moulin SMAC d'agglomération marseillaise;association SAAG;47 Bd Perrin;;13013;MARSEILLE;;;;43.319217, 5.407838;43.319217, 5.407838;Provence-Alpes-Côte d'Azur
+Centre Dramatique National;NOUVEAU THEATRE D’ANGERS;Théâtre Le Quai;17 rue de la Tannerie;B.P. 10103;49101;ANGERS CEDEX 02;-0.565009;47.472959999999986;47.472959999999986,-0.565009;;47.47296, -0.565009;Pays de la Loire
+Centre Dramatique National;THEATRE DU PORT DE LA LUNE;CENTRE DRAMATIQUE NATIONAL DE BORDEAUX AQUITAINE;3 square Jean Vauthier;B.P. 7;33032;BORDEAUX CEDEX;-0.547703;44.88325400000001;44.88325400000001,-0.547703;;44.883254, -0.547703;Nouvelle-Aquitaine
+Centre Dramatique National;LA COMEDIE DE CAEN;;1, square du Théâtre;BP 94;14203;Hérouville Saint-Clair Cedex;-0.344908;49.22016800000002;49.22016800000002,-0.344908;;49.220168, -0.344908;Normandie
+Centre Dramatique National;LE FESTIN;CDN DE MONTLUCON – REGION AUVERGNE;27 rue des Faucheroux;Espace Boris Vian;3100;MONTLUCON;2.609487;46.328193;46.328193,2.609487;;46.328193, 2.609487;Auvergne-Rhône-Alpes
+Centre Dramatique National;THEATRE DES TREIZE VENTS;CENTRE DRAMATIQUE NATIONAL DU LANGUEDOC-ROUSSILLON;avenue Albert Einstein;Domaine de Grammont;34965;MONTPELLIER CEDEX 2;3.92986;43.60967599999999;43.60967599999999,3.92986;;43.609676, 3.92986;Occitanie
+Centre Dramatique National;LA COMEDIE DE SAINT-ETIENNE;;7, avenue Emile Loubet;;42000;SAINT-ETIENNE;4.383267;45.43589799999999;45.43589799999999,4.383267;45.435508, 4.383442;45.435898, 4.383267;Auvergne-Rhône-Alpes
+Centre Dramatique Régional;THEATRE DES DEUX RIVES;CENTRE DE CREATION DRAMATIQUE DE HAUTE-NORMANDIE;48, rue Louis Ricard;;76000;ROUEN;1.100427;49.44675900000001;49.44675900000001,1.100427;49.446546, 1.100425;49.446759, 1.100427;Normandie
+Centre de développement chorégraphique;L'échangeur;;;;2130;FERE EN TARDENOIS;;;;49.198613, 3.517207;49.198613, 3.517207;Hauts-de-France
+FRAC;Fonds régional d'art contemporain AQUITAINE;;1 quai Armand Lalande;;33000;BORDEAUX;;;;;;
+FRAC;Fonds régional d'art contemporain CORSE;;Citadelle de Corte;;20250;CORTE;;;;42.304761, 9.148926;42.304761, 9.148926;Corse
+FRAC;Fonds régional d'art contemporain FRANCHE-COMTÉ;;Conseil régional 4, square Castan;;25000;BESANCON;;;;47.234547, 6.030396;47.234547, 6.030396;Bourgogne-Franche-Comté
+FRAC;Fonds régional d'art contemporain NORD-PAS-DE-CALAIS;;930, avenue Rosendaël;;59240;DUNKERQUE;;;;51.037813, 2.398842;51.037813, 2.398842;Hauts-de-France
+FRAC;Fonds régional d'art contemporain PICARDIE;;45, rue Pointin;;80000;AMIENS;;;;49.885615, 2.310726;49.885615, 2.310726;Hauts-de-France
+Centres nationaux de création musicale;Césaré;;38 rue Alain-Colas;;51450;Bétheny;4.044629;49.271201000000005;49.271201000000005,4.044629;49.271179, 4.04453;49.271201, 4.044629;Grand Est
+Opéra en région;Opéra Theatre d’Avignon et des pays de Vaucluse;;B.P. 111;;84007;AVIGNON Cedex;4.821076;43.93483399999998;43.93483399999998,4.821076;;43.934834, 4.821076;Provence-Alpes-Côte d'Azur
+Opéra en région;Opéra National de Bordeaux;;Place de la Comédie;B.P. 95;33025;BORDEAUX Cedex;-0.574308;44.84234200000002;44.84234200000002,-0.574308;;44.842342, -0.574308;Nouvelle-Aquitaine
+Opéra en région;Opéra de Lille;;2 rue des Bons Enfants;BP 133;59001;LILLE CEDEX;3.0652490000000006;50.638211999999996;50.638211999999996,3.0652490000000006;;50.638212, 3.065249;Hauts-de-France
+Opéra en région;Opéra National de Montpellier;;11 boulevard Victor Hugo;;34967;MONTPELLIER Cedex 2;3.879195;43.60786200000002;43.60786200000002,3.879195;;43.607862, 3.879195;Occitanie
+Centre chorégraphique national;Centre chorégraphique national d'Aix-en-Provence - Ballet Preljocaj;;Pavillon Noir;530 avenue Mozart;13627;Aix-en-Provence Cedex 01;5.470849;43.551174;43.551174,5.470849;;43.551174, 5.470849;Provence-Alpes-Côte d'Azur
+Centre chorégraphique national;Ballet Biarritz - Centre chorégraphique national d'Aquitaine en Pyrénées Atlantiques;;23, avenue Foch;Gare du Midi;64200;Biarritz;-1.558622;43.479276999999996;43.479276999999996,-1.558622;43.479443, -1.558602;43.479277, -1.558622;Nouvelle-Aquitaine
+Centre chorégraphique national;Ballet de l'Opéra national du Rhin;;38, passage du Théâtre;;68100;Mulhouse;7.3392719999999985;47.745475;47.745475,7.3392719999999985;47.745405, 7.339012;47.745475, 7.339272;Grand Est
+Pôle cirque;La Cascade;;Avenue de Tourne;;7700;BOURG-SAINT-ANDEOL;;;;44.369746, 4.642929;44.369746, 4.642929;Auvergne-Rhône-Alpes
+Centre d’art;CENTRE RHÉNAN D'ART CONTEMPORAIN;CRAC ALSACE;18, rue du Château;;68130;ALTKIRCH;;;;47.625137, 7.239095;47.625137, 7.239095;Grand Est
+Centre d’art;LA KUNSTHALLE;;La Fonderie;;68100;MULHOUSE;;;;47.739008, 7.331286;47.739008, 7.331286;Grand Est
+Centre d’art;LE POINT DU JOUR;CENTRE REGIONAL DE PHOTOGRAPHIE;109, avenue de Paris;;50100;CHERBOURG-OCTEVILLE;;;;49.632506, -1.61739;49.632506, -1.61739;Normandie
+Centre d’art;CENTRE D'ART DE L'YONNE;;10, route de Saint-Georges;;89000;AUXERRE;;;;47.797124, 3.55735;47.797124, 3.55735;Bourgogne-Franche-Comté
+Centre d’art;CCC DE TOURS;CENTRE DE CRÉATION CONTEMPORAINE;53-55, rue Marcel Tribut;;37000;TOURS;;;;47.389465, 0.699598;47.389465, 0.699598;Centre-Val de Loire
+Centre d’art;LA GALERIE, CENTRE D'ART CONTEMPORAIN;;1, rue Jean Jaurès;;93130;NOISY-LE-SEC CEDEX;;;;48.890274, 2.452941;48.890274, 2.452941;Île-de-France
+Centre d’art;CENTRE RÉGIONAL D'ART CONTEMPORAIN;;26, quai Aspirant Herber;;34200;SÈTE;;;;43.398779, 3.697941;43.398779, 3.697941;Occitanie
+Centre d’art;INSTITUT D'ART CONTEMPORAIN;;11, rue du docteur Dolard;;69100;VILLEURBANNE;;;;45.762473, 4.872414;45.762473, 4.872414;Auvergne-Rhône-Alpes
+Centre d’art;LE VENT DES FORETS;Espace rural d’art contemporain – Mairie;21 rue des Tassons;;55260;Fresnes-au-Mont;;;;48.896425, 5.440821;48.896425, 5.440821;Grand Est
+Orchestre Permanent;Orchestre symphonique du Rhin-Mulhouse;;La Filature - 20, allée Nathan Katz;;68090;Mulhouse cedex;7.351713000000001;47.75726;47.75726,7.351713000000001;;47.75726, 7.351713;Grand Est
+Orchestre Permanent;L'Ensemble de Basse-Normandie;;4, rue de l’hôtellerie;;14120;MONDEVILLE;-0.317366;49.176447;49.176447,-0.317366;49.184957, -0.310136;49.176447, -0.317366;Normandie
+Orchestre Permanent;Orchestre symphonique et lyrique de Nancy;;1, rue Sainte Catherine;;54000;NANCY;6.183877;48.69375500000001;48.69375500000001,6.183877;48.693985, 6.184578;48.693755, 6.183877;Grand Est
+Orchestre Permanent;Orchestre national de Lille;;3, place Mendès-France;BP 119;59027;Lille Cedex;3.019732;50.636335;50.636335,3.019732;;50.636335, 3.019732;Hauts-de-France
+Centre d’art;C.P.I.F. - CENTRE PHOTOGRAPHIQUE;D'ÎLE-DE-FRANCE;Ferme Briarde;;77340;PONTAULT-COMBAULT;;;;48.806089, 2.603425;48.806089, 2.603425;Île-de-France
+Centre d’art;CAC BRÉTIGNY-SUR-ORGE;CENTRE D'ART CONTEMPORAIN;Espace Jules Verne;;91220;BRÉTIGNY-SUR-ORGE;;;;48.610093, 2.300881;48.610093, 2.300881;Île-de-France
+Centre d’art;CENTRE NATIONAL DE L'ESTAMPE;ET DE L'ART IMPRIMÉ - CNEAI;Maison Levanneur;;78400;CHATOU;;;;48.900097, 2.152636;48.900097, 2.152636;Île-de-France
+Centre d’art;CENTRE DU LIVRE D'ARTISTE PAYS-PAYSAGE;;1, place Attane;;87500;SAINT-YRIEIX-LA-PERCHE;;;;45.515511, 1.202284;45.515511, 1.202284;Nouvelle-Aquitaine
+Centre d’art;LA SYNAGOGUE DE DELME;CENTRE D'ART CONTEMPORAIN;33, rue Raymond Poincaré;;57590;DELME;;;;48.888718, 6.38938;48.888718, 6.38938;Grand Est
+Centre d’art;LE PARVIS CENTRE D'ART CONTEMPORAIN;DE LA SCÈNE NATIONALE;Centre Le  Méridien;;65420;IBOS;;;;43.239779, 0.015476;43.239779, 0.015476;Occitanie
+Centre d’art;MAISON DES ARTS GEORGES POMPIDOU;;Route de Gréalou;;46160;CAJARC-SUR-LOT;;;;44.508858, 1.925494;44.508858, 1.925494;Occitanie
+Centre d’art;CHAPELLE SAINT-JACQUES;;Avenue du Maréchal Foch;;31800;SAINT-GAUDENS;;;;43.105264, 0.715872;43.105264, 0.715872;Occitanie
+Centre d’art;CENTRE RÉGIONAL DE LA PHOTOGRAPHIE;DU NORD PAS DE CALAIS;Place des Nations;;59282;DOUCHY-LES-MINES;;;;50.300856, 3.385655;50.300856, 3.385655;Hauts-de-France
+Centre d’art;LE CARRE;CHÂTEAU-GONTIER;Place André Counord;;53200;CHÂTEAU-GONTIER;;;;47.822319, -0.709951;47.822319, -0.709951;Pays de la Loire
+Centre d’art;LE CONFORT MODERNE;ENTREPOT- GALERIE;185, rue du faubourg du Pont Neuf;;86000;POITIERS;;;;46.572692, 0.359674;46.572692, 0.359674;Nouvelle-Aquitaine
+Centre d’art;VILLA NOAILLES - F.I.A.M.H.;;BP176;;83400;HYÈRES;;;;43.118457, 6.128004;43.118457, 6.128004;Provence-Alpes-Côte d'Azur
+Centre d’art;VILLA ARSON - CENTRE D'ART;;20 avenue Stephen Liégeard;;6100;NICE;;;;;;
+Orchestre Permanent;Ensemble Orchestral de Paris;;125, rue Aristide Briand;;92300;LEVALLOIS-PERRET;2.295428;48.89548600000001;48.89548600000001,2.295428;48.895515, 2.295392;48.895486, 2.295428;Île-de-France
+Orchestre Permanent;Orchestre national d'Ile-de-France;;19 rue des Ecoles;;94140;ALFORTVILLE;2.415703;48.803256999999995;48.803256999999995,2.415703;48.803228, 2.415571;48.803257, 2.415703;Île-de-France
+Orchestre Permanent;Orchestre National de Lorraine;;31 rue de Belletanche;BP 15153;57074;Metz cedex 3;6.207467000000001;49.10932400000003;49.10932400000003,6.207467000000001;;49.109324, 6.207467;Grand Est
+Orchestre Permanent;Orchestre de chambre de Toulouse;;22, allée de Barcelone;;31000;TOULOUSE;1.420983;43.61015300000002;43.61015300000002,1.420983;43.605728, 1.433403;43.610153, 1.420983;Occitanie
+Orchestre Permanent;Orchestre national des Pays de la Loire;;7, rue de Valmy;B.P. 71229;44012;NANTES cedex 1;-1.544615;47.21330499999999;47.21330499999999,-1.544615;;47.213305, -1.544615;Pays de la Loire
+Orchestre Permanent;Orchestre lyrique de région Avignon Provence;;258, Chemin des Rémouleurs;BP 10967 - Z.I de Courtine;84093;Avignon Cedex 9;4.788369999999999;43.938124000000016;43.938124000000016,4.788369999999999;;43.938124, 4.78837;Provence-Alpes-Côte d'Azur
+Orchestre Permanent;Orchestre régional de Cannes Provence Alpes Côte d’Azur;;24, avenue des Arlucs;;6150;Cannes La Bocca;;;;43.547756, 6.963784;43.547756, 6.963784;Provence-Alpes-Côte d'Azur
+Orchestre Permanent;Les Musiciens du Louvre - Grenoble;;1, rue du Vieux Temple;BP 3046;38816;GRENOBLE cedex 1;5.733685999999999;45.193523999999975;45.193523999999975,5.733685999999999;;45.193524, 5.733686;Auvergne-Rhône-Alpes
+Centre Dramatique National;THEATRE DE LORIENT;CENTRE DRAMATIQUE NATIONAL DE BRETAGNE;11, rue Claire Droneau;B.P. 726;56107;LORIENT CEDEX;-3.3740629999999996;47.744379000000016;47.744379000000016,-3.3740629999999996;;47.744379, -3.374063;Bretagne
+Centre Dramatique National;CENTRE DRAMATIQUE NATIONAL DE LYON;Théâtre Nouvelle Génération;23, rue de Bourgogne;B.P. 518;69257;LYON Cedex 09;4.803453;45.777472999999986;45.777472999999986,4.803453;;45.777473, 4.803453;Auvergne-Rhône-Alpes
+Centre Dramatique National;LA COMEDIE DE REIMS;;3, chaussée Bocquaine;B.P. 1434;51066;REIMS CEDEX;4.021048;49.24878800000002;49.24878800000002,4.021048;;49.248788, 4.021048;Grand Est
+Centre Dramatique National;THEATRE NATIONAL POPULAIRE;;8, place Lazare Goujon;;69627;VILLEURBANNE CEDEX;4.879626000000001;45.765804;45.765804,4.879626000000001;;45.765804, 4.879626;Auvergne-Rhône-Alpes
+Centre Dramatique Régional;CENTRE DRAMATIQUE DE L’OCEAN INDIEN;Théâtre du Grand Marché;2, rue du Maréchal Leclerc;;97400;SAINT-DENIS DE LA REUNION;;;;-20.880868, 55.44749;-20.880868, 55.44749;
+Centre Dramatique National;THEATRE DU PREAU;;Place Castel;B.P. 104;14504;VIRE Cedex;-0.890608;48.85109500000002;48.85109500000002,-0.890608;;48.851095, -0.890608;Normandie
+Centre national des arts de la rue;Le Fourneau;;11 Quai de la Douane;;29200;BREST;-4.482418000000001;48.38279299999999;48.38279299999999,-4.482418000000001;48.383091, -4.483333;48.382793, -4.482418;Bretagne
+Centre national des arts de la rue;Usines Boinot;;3 rue de la Chamoiserie;;79000;NIORT;-0.46987199999999996;46.32470099999998;46.32470099999998,-0.46987199999999996;46.324598, -0.469989;46.324701, -0.469872;Nouvelle-Aquitaine
+Centre national des arts de la rue;Moulin fondu;;53 rue de Merlan;;93130;NOISY-LE-SEC;2.4661480000000005;48.89063699999999;48.89063699999999,2.4661480000000005;48.890637, 2.466098;48.890637, 2.466148;Île-de-France
+Centre national des arts de la rue;Atelier 231;;1 rue Denis Papin;;76300;SOTTEVILLE-LES-ROUEN;1.098532;49.41700800000001;49.41700800000001,1.098532;49.417564, 1.098308;49.417008, 1.098532;Normandie
+Centre chorégraphique national;Centre National de Danse Contemporaine d'Angers;;17, rue de la Tannerie;BP 50107;49101;Angers cedex 02;-0.5650089999999999;47.47295999999999;47.47295999999999,-0.5650089999999999;;47.47296, -0.565009;Pays de la Loire
+Centre chorégraphique national;Centre chorégraphique national deTours;;47, rue du Sergent Leclerc;;37000;Tours;0.675551;47.377714000000005;47.377714000000005,0.675551;47.37777, 0.6755;47.377714, 0.675551;Centre-Val de Loire
+FRAC;Fonds régional d'art contemporain BASSE-NORMANDIE;;9, rue Vaubenard;;14000;CAEN;;;;49.187613, -0.346583;49.187613, -0.346583;Normandie
+FRAC;Fonds régional d'art contemporain BRETAGNE;;19 avenue André Mussat;;35000;RENNES;;;;48.130653, -1.695448;48.130653, -1.695448;Bretagne
+FRAC;Fonds régional d'art contemporain POITOU-CHARENTES;;63, boulevard Besson Bey;;16000;ANGOULÊME;;;;45.654456, 0.158254;45.654456, 0.158254;Nouvelle-Aquitaine
+FRAC;Fonds régional d'art contemporain RHONE-ALPES;;11 rue du Docteur Dolard;;69100;VILLEURBANNE;;;;45.762473, 4.872414;45.762473, 4.872414;Auvergne-Rhône-Alpes
+Opéra en région;Théâtre du Capitole de Toulouse;;-;B.P. 129;31014;TOULOUSE Cedex 6;1.439218;43.60800600000001;43.60800600000001,1.439218;;43.608006, 1.439218;Occitanie
+Opéra en région;Opera de Rennes;;-;;35031;RENNES CEDEX;-1.680227;48.11035300000002;48.11035300000002,-1.680227;;48.110353, -1.680227;Bretagne
+Centre de développement chorégraphique;Le Pacifique;;;;38100;GRENOBLE;;;;45.18627, 5.725358;45.18627, 5.725358;Auvergne-Rhône-Alpes
+Centre de développement chorégraphique;Biennale nationale de danse du Val-de-Marne;;;;94400;VITRY-SUR-SEINE;;;;48.787238, 2.391594;48.787238, 2.391594;Île-de-France
+Pôle cirque;Circuits;;Rue Guynemer;Centre Cuzin;32000;AUCH;;;;43.647236, 0.582284;43.647236, 0.582284;Occitanie
+Pôle cirque;Théâtre Firmein Gémier / La Piscine;;254, avenue de la Division Leclerc;;92290;CHATENAY-MALABRY;;;;48.764602, 2.267375;48.764602, 2.267375;Île-de-France
+SMAC;Le Noumatrouff;Association Fédération Hiéro Mulhouse;;C/O Fédération Hiéro BP 31 35;68100;MULHOUSE;;;;47.748451, 7.338023;47.748451, 7.338023;Grand Est
+SMAC;Le Florida;Adem Association pour le développement de l'expression musicale;95, boulevard Carnot;;47000;AGEN;;;;44.202916, 0.620457;44.202916, 0.620457;Nouvelle-Aquitaine
+SMAC;Le Brise Glace;Association musiques amplifiées aux marquisats Annecy;54 bis, rue des Marquisats;C/o Association musiques amplifiées,;74000;ANNECY;;;;45.893031, 6.135651;45.893031, 6.135651;Auvergne-Rhône-Alpes
+SMAC;Le Big Band Café;ADMH : Association pour le développement musical d'Hérouville;1, avenue du Haut Crépond;;14200;HEROUVILLE-SAINT-CLAIR;;;;49.210276, -0.336527;49.210276, -0.336527;Normandie
+SMAC;Le Cargo;Arts Attack;Cours Caffarelli;;14000;CAEN;;;;49.180486, -0.341715;49.180486, -0.341715;Normandie
+SMAC;la Vapeur;Régie personnalisée;42, avenue de Stalingrad;;21000;DIJON;;;;47.346335, 5.059448;47.346335, 5.059448;Bourgogne-Franche-Comté
+SMAC;Penn Ar Jazz;Assciation Penn Ar Jazz;6, rue Guy Ropartz;;29200;BREST;;;;48.385826, -4.484894;48.385826, -4.484894;Bretagne
+SMAC;ATM (projet SMAC d'agglomération rennaise);Association Trans Musicales;10/12, rue Jean Guy;-CS 73912;35000;RENNES;;;;48.106842, -1.695181;48.106842, -1.695181;Bretagne
+SMAC;Le Chato d'O;Association Mars;113, avenue de Vendôme;;41000;BLOIS;;;;47.605351, 1.313512;47.605351, 1.313512;Centre-Val de Loire
+SMAC;L'Empreinte;régie municipale;301, avenue de l'Europe;;77176;SAVIGNY-LE-TEMPLE;;;;48.595426, 2.585043;48.595426, 2.585043;Île-de-France
+SMAC;Victoire II;Association Stand'art;2, rue T Renaudot;Domaine du Mas de Grille;34430;SAINT-JEAN-DE-VEDAS;;;;43.574682, 3.850943;43.574682, 3.850943;Occitanie
+SMAC;Paloma;;250 Chemin de l'Aérodrome;;30000;NIMES;;;;43.855306, 4.404629;43.855306, 4.404629;Occitanie
+SMAC;Lo Bolegason;;69, rue de l'Auque;;81100;CASTRES;;;;43.601771, 2.246445;43.601771, 2.246445;Occitanie
+SMAC;La Lune des Pirates;Association la Lune des Pirates spectacles;17, quai Bélu;;80000;AMIENS;;;;49.896299, 2.304671;49.896299, 2.304671;Hauts-de-France
+SMAC;Fuzz'Yon;Association fuzz'Yon;18, rue Sadi Carnot;BP 183;85000;LA ROCHE-SUR-YON;;;;46.670775, -1.423575;46.670775, -1.423575;Pays de la Loire
+SMAC;La Gare;Association AVEC;Place du Marché;;84660;MAUBEC;;;;43.867831, 5.143548;43.867831, 5.143548;Provence-Alpes-Côte d'Azur
+SMAC en cours de labellisation;La Nef;Cté d'agglomération  Grand Angoulême-Régie à autonomie financière;Rue Louis Pergaud;;16000;ANGOULEME;;;;45.641866, 0.131695;45.641866, 0.131695;Nouvelle-Aquitaine
+SMAC en cours de labellisation;Echonova (projet SMAC de département);R.E.M.A. L’Echonova;1 rue Léon Griffon;;56890;Saint-Avé;;;;47.673828, -2.743307;47.673828, -2.743307;Bretagne
+SMAC en cours de labellisation;Deux pièces cuisine;Commune du Blanc-Mesnil;42 avenue Paul Vaillant Couturier;;93150;LE BLANC-MESNIL;;;;48.928585, 2.476136;48.928585, 2.476136;Île-de-France
+SMAC en cours de labellisation;L'Affranchi SMAC d'agglomération marseillaise;association R'Vallée;212, boulevard Saint Marcel;;13011;MARSEILLE;;;;43.286268, 5.469297;43.286268, 5.469297;Provence-Alpes-Côte d'Azur
+Scène Nationale;Scène nationale 61 - Alençon, Flers, Mortagne;;2, avenue de Basingstoke;;61000;ALENÇON;0.094943;48.436352;48.436352,0.094943;48.436275, 0.095422;48.436352, 0.094943;Normandie
+Scène Nationale;Bonlieu - Scène nationale;;1, rue Jean-Jaurès;BP 294;74000;ANNECY Cedex;6.128693;45.90203399999999;45.90203399999999,6.128693;45.902197, 6.128472;45.902034, 6.128693;Auvergne-Rhône-Alpes
+Scène Nationale;L’Artchipel – Scène nationale;;avenue du Général Félix Eboué;BP 280;97100;BASSE TERRE Cedex;-61.72790599999999;15.992473000000002;15.992473000000002,-61.72790599999999;15.994165, -61.726048;15.992473, -61.727906;
+Scène Nationale;Le Granit - Scène nationale;;1, Faubourg de Montbéliard;BP 117;90000;BELFORT Cedex;6.857865;47.636644000000004;47.636644000000004,6.857865;47.636797, 6.857904;47.636644, 6.857865;Bourgogne-Franche-Comté
+Scène Nationale;Théâtre de Cavaillon - Scène nationale;;rue du Languedoc;BP 205;84300;CAVAILLON Cedex;5.042427;43.83258800000001;43.83258800000001,5.042427;43.83256, 5.04245;43.832588, 5.042427;Provence-Alpes-Côte d'Azur
+Scène Nationale;Espace Malraux / Scène nationale Chambéry-Savoie;;67, place François Mitterrand;BP 147;73000;CHAMBERY Cedex;5.925292;45.566827;45.566827,5.925292;45.563335, 5.924479;45.566827, 5.925292;Auvergne-Rhône-Alpes
+Scène Nationale;Le Carré - Scène Nationale -;;4, bis rue Horeau;BP 357;53200;CHÂTEAU-GONTIER Cedex;-0.697612;47.82867900000002;47.82867900000002,-0.697612;47.82866, -0.69755;47.828679, -0.697612;Pays de la Loire
+Scène Nationale;Maison des Arts et de la Culture;;Place Salvador-Allende;;94000;CRÉTEIL;2.4483899999999994;48.790022000000015;48.790022000000015,2.4483899999999994;48.778451, 2.453769;48.790022, 2.44839;Île-de-France
+Scène Nationale;Théâtre de l’Agora - Scène nationale;;Place de l’Agora;BP 46;91000;ÉVRY Cedex;2.43571;48.629175;48.629175,2.43571;48.627934, 2.429845;48.629175, 2.43571;Île-de-France
+Scène Nationale;L’Estive / Scène nationale de Foix et de l’Ariège;;20, avenue du Général de Gaulle;BP 95;9000;FOIX Cedex;1.609287;42.96069799999999;42.96069799999999,1.609287;;42.960698, 1.609287;Occitanie
+Scène Nationale;Centre Martiniquais d'Action Culturelle (CMAC);;6, rue Jacques Cazotte;;97200;FORT-DE-France;-61.065119;14.604314999999996;14.604314999999996,-61.065119;14.604361, -61.065269;14.604315, -61.065119;
+Scène Nationale;La Passerelle - Scène nationale;;137, boulevard Georges Pompidou;La Passerelle;5000;GAP Cedex;6.058732;44.57402700000001;44.57402700000001,6.058732;;44.574027, 6.058732;Provence-Alpes-Côte d'Azur
+Scène Nationale;MC2;Maison de la Culture de Grenoble;4 rue Paul Claudel;CS 92448;38034;GRENOBLE Cedex 2;5.730066;45.16775999999999;45.16775999999999,5.730066;;45.16776, 5.730066;Auvergne-Rhône-Alpes
+Scène Nationale;Le Grand R;;Esplanade Jeannie Mazurelle;;85000;LA-ROCHE-SUR-YON Cedex;-1.429359;46.66772500000001;46.66772500000001,-1.429359;;46.667725, -1.429359;Pays de la Loire
+Scène Nationale;Scène nationale de Sète et du Bassin de Thau;;Avenue Victor Hugo;;34200;SÈTE;3.698214;43.40820699999999;43.40820699999999,3.698214;43.40848, 3.698287;43.408207, 3.698214;Occitanie
+Orchestre Permanent;Orchestre des Pays de Savoie;;6, rue Métropole;;73000;Chambéry;5.921964000000001;45.56494999999998;45.56494999999998,5.921964000000001;45.564903, 5.921836;45.56495, 5.921964;Auvergne-Rhône-Alpes
+Opéra en région;Opéra National de Nancy et de Lorraine;;1 rue Sainte-Catherine;;54000;NANCY;6.183877;48.69375500000001;48.69375500000001,6.183877;48.693985, 6.184578;48.693755, 6.183877;Grand Est
+Pôle cirque;Centre culturel Agora;;;BP 161;24750;BOULAZAC;;;;45.185786, 0.77558;45.185786, 0.77558;Nouvelle-Aquitaine
+Pôle cirque;Le Prato;;6, allée de la Filature;;59000;LILLE;;;;50.619345, 3.071094;50.619345, 3.071094;Hauts-de-France
+Scène Nationale;Centre Culturel du Blésois - Scène nationale;;Place de la République;BP 179;41000;BLOIS;1.3338;47.589372000000004;47.589372000000004,1.3338;47.589955, 1.333897;47.589372, 1.3338;Centre-Val de Loire
+Scène Nationale;La Comète - Scène nationale;;5, rue des Fripier;BP 233;51010;CHALONS EN CHAMPAGNE;4.363944;48.95629700000001;48.95629700000001,4.363944;;48.956297, 4.363944;Grand Est
+Scène Nationale;La Comédie de Clermont-Ferrand;;Rue Abbé de l’Épée;;63000;CLERMONT-FERRAND;3.084558;45.76992700000001;45.76992700000001,3.084558;45.769728, 3.085876;45.769927, 3.084558;Auvergne-Rhône-Alpes
+Scène Nationale;L’Hippodrome - Scène nationale;;Place du Barlet;BP 79;59502;DOUAI Cedex;3.082847;50.365708;50.365708,3.082847;;50.365708, 3.082847;Hauts-de-France
+Scène Nationale;Le Bateau Feu - Scène nationale;;Place du Général de Gaulle;BP 2064;59300;DUNKERQUE;2.380813;51.03602300000001;51.03602300000001,2.380813;;51.036023, 2.380813;Hauts-de-France
+Scène Nationale;Scène nationale Évreux-Louviers;;Place Charles de Gaulle;;27000;ÉVREUX;1.15116;49.02733299999999;49.02733299999999,1.15116;49.027378, 1.150741;49.027333, 1.15116;Normandie
+Scène Nationale;Le Carreau - Scène Nationale de Forbach et de l’Est Mosellan;;avenue Saint-Rémy;BP 40190;57603;FORBACH Cedex;6.898134;49.18701899999999;49.18701899999999,6.898134;;49.187019, 6.898134;Grand Est
+Scène Nationale;La Ferme du buisson;Scène nationale de Marne-la-Vallée;Allée de la Ferme;;77186;NOISIEL;;;;48.844729, 2.625589;48.844729, 2.625589;Île-de-France
+Scène Nationale;L'Allan - Scène Nationale de Montbéliard;;54, rue Clemenceau;BP 236;25204;MONTBÉLIARD Cedex;6.797719;47.511205000000004;47.511205000000004,6.797719;;47.511205, 6.797719;Bourgogne-Franche-Comté
+Scène Nationale;Le Moulin du Roc - Scène nationale;;9, boulevard Main;BP 405;79000;NIORT Cedex;-0.468096;46.32580299999999;46.32580299999999,-0.468096;46.325665, -0.467965;46.325803, -0.468096;Nouvelle-Aquitaine
+Scène Nationale;Le Carré Saint-Vincent - Scène nationale d'Orléans;;Le Carré Saint-Vincent;;45000;ORLÉANS;1.916929;47.91864699999999;47.91864699999999,1.916929;47.904183, 1.91292;47.918647, 1.916929;Centre-Val de Loire
+Scène Nationale;Le Manège de Reims - Scène nationale;;2, boulevard du Général Leclerc;BP 1063;51100;REIMS Cedex;4.021506;49.251896000000016;49.251896000000016,4.021506;49.25457, 4.022331;49.251896, 4.021506;Grand Est
+Scène Nationale;La Coupole - Scène nationale;Centre de Création et de Diffusion Artistique de Sénart;rue Jean-François Millet;;77380;COMBS-LA-VILLE;2.545007;48.665251;48.665251,2.545007;48.659346, 2.567974;48.665251, 2.545007;Île-de-France
+Scène Nationale;Le Phénix  - Scène nationale de Valenciennes;;Boulevard Henri Harpignies;;59300;VALENCIENNES Cedex;3.5339509999999996;50.36142600000001;50.36142600000001,3.5339509999999996;50.364409, 3.524458;50.361426, 3.533951;Hauts-de-France
+Centre d’art;CEAAC - CENTRE EUROPEEN D'ACTIONS;ARTISTIQUES CONTEMPORAINES;7, rue de l'Abreuvoir;;67000;STRASBOURG;;;;48.578947, 7.760034;48.578947, 7.760034;Grand Est
+Centre d’art;WHARF - CENTRE D'ART CONTEMPORAIN;DE BASSE-NORMANDIE;7, passage de la Poste;;14200;HÉROUVILLE SAINT-CLAIR;;;;49.203271, -0.333183;49.203271, -0.333183;Normandie
+Centre d’art;CENTRE D'ART PASSERELLE;;41 rue Charles Berthelot;;29200;BREST;;;;48.397838, -4.479698;48.397838, -4.479698;Bretagne
+Centre d’art;LA CRIÉE CENTRE D'ART CONTEMPORAIN;;Place Honoré Commeurec;;35000;RENNES;;;;48.1084, -1.67969;48.1084, -1.67969;Bretagne
+Centre d’art;PASSAGES - CENTRE D'ART CONTEMPORAIN;;9, rue Jeanne d'Arc;;10000;TROYES;;;;48.292305, 4.067997;48.292305, 4.067997;Grand Est
+Centre d’art;GALERIE MARCEL DUCHAMP;CENTRE D'ART CONTEMPORAIN;7-9, rue Percée;;76190;YVETOT;;;;49.618068, 0.755523;49.618068, 0.755523;Normandie
+Centre d’art;PALAIS DE TOKYO - SITE DE CRÉATION;CONTEMPORAINE;2, rue de la Manutention;;75116;PARIS;;;;48.86541, 2.27774;48.86541, 2.27774;Île-de-France
+Centre d’art;LE JEU DE PAUME;;1, place de la Concorde;;75008;PARIS;;;;48.867065, 2.321877;48.867065, 2.321877;Île-de-France
+Centre d’art;LA FERME DU BUISSON;CENTRE D'ART ET DE CULTURE;Allée de la Ferme;;77186;NOISIEL;;;;48.844729, 2.625589;48.844729, 2.625589;Île-de-France
+Centre d’art;CENTRE DE PHOTOGRAPHIE DE LECTOURE;ARRÊT SUR IMAGE;5, rue Sainte-Claire;;32700;LECTOURE;;;;43.9344, 0.622243;43.9344, 0.622243;Occitanie
+Centre d’art;ACTE DE NAISSANCE;GALERIE L'H DU SIÈGE;15, rue de l'Hôpital de Siège;;59300;VALENCIENNES;;;;50.352224, 3.520612;50.352224, 3.520612;Hauts-de-France
+Centre d’art;LE GRAND CAFÉ;CENTRE D'ART CONTEMPORAIN;Place des quatre z'Horloges;;44600;SAINT-NAZAIRE;;;;47.283577, -2.293727;47.283577, -2.293727;Pays de la Loire
+Centre d’art;LA CHAPELLE JEANNE D'ARC;;Place Jeanne d'Arc;;79100;THOUARS;;;;46.98482, -0.210144;46.98482, -0.210144;Nouvelle-Aquitaine
+Centre d’art;POUR l'INSTANT;CENTRE PHOTOGRAPHIQUE;7 avenue de Limoges;;79000;NIORT;;;;46.321859, -0.455783;46.321859, -0.455783;Nouvelle-Aquitaine
+Centre d’art;LE MAGASIN - CENTRE NATIONAL D'ART;CONTEMPORAIN;Site Bouchayer Viallet;;38000;GRENOBLE;;;;45.191098, 5.719737;45.191098, 5.719737;Auvergne-Rhône-Alpes
+Centre Dramatique National;THEATRE DE LA COMMUNE;CENTRE DRAMATIQUE NATIONAL D’AUBERVILLIERS;2, rue Edouard Poisson;B.P. 157;93304;AUBERVILLIERS CEDEX;2.3850020000000005;48.910481999999995;48.910481999999995,2.3850020000000005;;48.910482, 2.385002;Île-de-France
+Centre Dramatique National;LA COMEDIE DE BETHUNE;CENTRE DRAMATIQUE NATIONAL  NORD-PAS-DE-CALAIS;Place Foch;B.P. 631;62412;BETHUNE Cedex;2.6333500000000005;50.530708999999995;50.530708999999995,2.6333500000000005;;50.530709, 2.63335;Hauts-de-France
+Centre Dramatique National;CENTRE DRAMATIQUE NATIONAL;;26, place Jean Jaurès;;93100;MONTREUIL CEDEX;2.441887;48.86259200000001;48.86259200000001,2.441887;48.862076, 2.442802;48.862592, 2.441887;Île-de-France
+Centre Dramatique National;THEATRE NATIONAL DE BRETAGNE;;1, rue Saint-Hélier;B.P. 675;35008;RENNES Cedex;-1.6728340000000002;48.107675999999984;48.107675999999984,-1.6728340000000002;;48.107676, -1.672834;Bretagne
+Centre Dramatique National;THEATRE NATIONAL DE TOULOUSE MIDI-PYRENEES;;1, rue Pierre Baudis;B.P. 50919;31009;TOULOUSE Cedex 06;1.449791;43.603784;43.603784,1.449791;;43.603784, 1.449791;Occitanie
+Centre chorégraphique national;Centre chorégraphique national de Franche-Comté à Belfort;;3, avenue de l'Espérance;;90000;Belfort;6.862670999999999;47.64154;47.64154,6.862670999999999;47.641339, 6.862661;47.64154, 6.862671;Bourgogne-Franche-Comté
+Centre chorégraphique national;Centre chorégraphique national de Caen et de Basse-Normandie;;11 rue du Carel;BP 75411;14054;Caen cedex 4;-0.371104;49.17986799999999;49.17986799999999,-0.371104;;49.179868, -0.371104;Normandie
+Centre chorégraphique national;Centre chorégraphique national de Nantes Claude Brumachon Benjamin Lamarche;;23, rue Noire;;44000;Nantes;-1.562287;47.226438;47.226438,-1.562287;47.226345, -1.562376;47.226438, -1.562287;Pays de la Loire
+Centre chorégraphique national;Centre chorégraphique national de Rillieux-la-Pape;;30 ter, avenue du Général Leclerc;BP 106;69143;Rillieux-la-Pape;4.865976999999999;45.805573;45.805573,4.865976999999999;;45.805573, 4.865977;Auvergne-Rhône-Alpes
+Centre chorégraphique national;Centre chorégraphique national de Roubaix Nord-Pas-de-Calais;;33, rue de l'Épeule;;59100;Roubaix;3.162677;50.691121;50.691121,3.162677;50.691102, 3.162746;50.691121, 3.162677;Hauts-de-France
+Orchestre Permanent;Orchestre national de Bordeaux-Aquitaine;;Place de la Comédie;BP 95;33025;Bordeaux Cedex;-0.574308;44.84234200000002;44.84234200000002,-0.574308;;44.842342, -0.574308;Nouvelle-Aquitaine
+Orchestre Permanent;Orchestre de Paris;;252, rue du Faubourg Saint Honoré;Salle PLEYEL;75008;PARIS;2.320066;48.84717500000001;48.84717500000001,2.320066;48.876956, 2.300995;48.847175, 2.320066;Île-de-France
+Orchestre Permanent;Orchestre national de Lyon;;82, rue de Bonnel;;69003;Lyon;4.851918;45.762103000000025;45.762103000000025,4.851918;45.762063, 4.852408;45.762103, 4.851918;Auvergne-Rhône-Alpes
+Centre de développement chorégraphique;Le Cuvier / CDC d'Aquitaine Artigues-près-Bordeaux;;;;33370;ARTIGUES-PRES-BORDEAUX;;;;44.858314, -0.497405;44.858314, -0.497405;Nouvelle-Aquitaine
+Centre de développement chorégraphique;Les Hivernales - la manutention;;;;84000;AVIGNON;;;;43.947855, 4.807592;43.947855, 4.807592;Provence-Alpes-Côte d'Azur
+Centre de développement chorégraphique;Uzès danse, Festival et Centre de développement chorégraphique de l'Uzège, du Gard et du Languedoc-Roussillon;;;;30700;UZES;;;;44.012097, 4.419221;44.012097, 4.419221;Occitanie
+SMAC;La Cartonnerie;REMCA;84, rue du Docteur Lemoine;;51100;REIMS;;;;49.268191, 4.03583;49.268191, 4.03583;Grand Est
+SMAC;Le Gueulard +;;3 rue Victor Hugo;;57240;NILVANGE;;;;49.341575, 6.050484;49.341575, 6.050484;Grand Est
+SMAC;SMAC départementale : Rocksane (Bergerac), Le Sans Réserve et IMR (Périgueux);Rocksane Overlook / Sans Réserve/ Institut des musiques rock;;;;BERGERAC | PERIGUEUX |PERIGUEUX;;;;45.177359, 0.725478;45.177359, 0.725478;Nouvelle-Aquitaine
+SMAC;SMAC d'agglomération Bordelaise : Krakatoa;Transrock;3, avenue Victor Hugo;C/o Transrock;33700;MERIGNAC;;;;44.823628, -0.62452;44.823628, -0.62452;Nouvelle-Aquitaine
+SMAC;SMAC d'agglomération Bordelaise : Aréma rock et chanson;;181, rue François Boucher;;33400;TALENCE;;;;44.792841, -0.586843;44.792841, -0.586843;Nouvelle-Aquitaine
+SMAC;CAMJI;Association le Camji;3 rue de l'Ancien Musée;Espace Michelet,;79000;NIORT;;;;46.323205, -0.46373;46.323205, -0.46373;Nouvelle-Aquitaine
+SMAC;La Coopérative de Mai;Association Pop'art;Rue Serge Gainsbourg;;63100;CLERMONT-FERRAND;;;;45.788615, 3.099623;45.788615, 3.099623;Auvergne-Rhône-Alpes
+SMAC;Le Fil;Association Ligérienne de musiques actuelles;20 rue St Joseph;;42000;SAINT-ETIENNE;;;;45.442255, 4.375612;45.442255, 4.375612;Auvergne-Rhône-Alpes
+SMAC;Les Abattoirs;;Route de lIsle d'Abeau;;38300;BOURGOIN-JALLIEU;;;;45.602731, 5.263921;45.602731, 5.263921;Auvergne-Rhône-Alpes
+SMAC;La Cordonnerie;;3, quai Sainte Claire;Cité de la musique,;26100;ROMANS;;;;45.043393, 5.044746;45.043393, 5.044746;Auvergne-Rhône-Alpes
+SMAC;SMAC Aire Urbaine Montbéliard Belfort : Le Moloco et La Poudrière;;21, rue de Seloncourt;co/Le Moloco;25400;AUDINCOURT;;;;47.47866, 6.842865;47.47866, 6.842865;Bourgogne-Franche-Comté
+SMAC;Le Manège / MAPL (projet SMAC de département);Musique aujourd'hui en Pays de Lorient;2, rue Jean Le Coutaller;;56100;LORIENT;;;;47.746312, -3.367466;47.746312, -3.367466;Bretagne
+SMAC;File 7;File 7 – Café musique du Val d'Europe;4, rue des Labours;;77700;MAGNY-LE-HONGRE;;;;48.86399, 2.813127;48.86399, 2.813127;Île-de-France
+SMAC;Le Triton;;11 bis, rue du Coq Français;;93260;LES LILAS;;;;48.878456, 2.414876;48.878456, 2.414876;Île-de-France
+SMAC;Le Rio Grande;Le Rio;3, rue Ferdinand Buisson;;82000;MONTAUBAN;;;;44.014764, 1.344937;44.014764, 1.344937;Occitanie
+SMAC;Le Chabada;Adrama-Chabada;56 Boulevard du Doyenné;;49100;ANGERS;;;;47.488388, -0.536159;47.488388, -0.536159;Pays de la Loire
+SMAC;Stéreolux;Association Songo;4, boulevard Léon Bureau;;44200;NANTES;;;;47.206011, -1.563948;47.206011, -1.563948;Pays de la Loire
+SMAC;La Manutention;Association pour le Jazz et les musiques improvisées AJMI;4 rue esc.Saint-Anne;La Manutention;84000;AVIGNON;;;;43.951249, 4.808538;43.951249, 4.808538;Provence-Alpes-Côte d'Azur
+SMAC en cours de labellisation;La Belle Electrique;Association MixLab;12 esplanade Andry-Farcy;;38000;GRENOBLE;;;;45.187197, 5.70455;45.187197, 5.70455;Auvergne-Rhône-Alpes
+SMAC en cours de labellisation;Echo System;Au coin de l’oreille;;Z.A l’Ecu;70360;SCEY SUR SAONE;;;;47.654724, 6.003422;47.654724, 6.003422;Bourgogne-Franche-Comté
+SMAC en cours de labellisation;Le Bikini;Patricia Sansonneto entrepreneur de spectacle;rue Théodore Monod;Parc technologique du canal,;31520;RAMONVILLE-SAINT-AGNE;;;;43.542625, 1.456742;43.542625, 1.456742;Occitanie
+SMAC en cours de labellisation;Espace Julien SMAC d'agglomération marseillaise;association Teknicité;39, cours Julien;;13006;MARSEILLE;;;;43.294366, 5.383364;43.294366, 5.383364;Provence-Alpes-Côte d'Azur
+FRAC;Fonds régional d'art contemporain ALSACE;Agence culturelle d'Alsace;1, espace Gilbert Estève BP 25;;67600;SELESTAT;;;;48.255557, 7.457459;48.255557, 7.457459;Grand Est
+FRAC;Fonds régional d'art contemporain ILE-DE-France;;33, rue des Alouettes;;75019;PARIS;;;;48.878195, 2.385454;48.878195, 2.385454;Île-de-France
+FRAC;Fonds régional d'art contemporain MIDI-PYRENEES;LES ABATTOIRS;76, allée Charles de Fitte;;31300;TOULOUSE;;;;43.600678, 1.428998;43.600678, 1.428998;Occitanie
+Centres nationaux de création musicale;Groupe de musique expérimentale de Marseille (GMEM);;15, rue de Cassis;;13008;Marseille;5.389298999999999;43.279554999999995;43.279554999999995,5.389298999999999;43.27968, 5.389358;43.279555, 5.389299;Provence-Alpes-Côte d'Azur
+Centre national des arts de la rue;Le Citron jaune;;30 avenur Max Dormoy;;13230;PORT-SAINT-LOUIS-DU-RHONE;4.812356;43.391278000000014;43.391278000000014,4.812356;43.391538, 4.812977;43.391278, 4.812356;Provence-Alpes-Côte d'Azur
+Scène Nationale;Théâtre d'Angoulême - Scène nationale;;Avenue des Maréchaux;BP 287;16000;ANGOULEME Cedex;0.155055;45.64771700000001;45.64771700000001,0.155055;45.647533, 0.154404;45.647717, 0.155055;Nouvelle-Aquitaine
+Scène Nationale;Action Culturelle du Barrois  - Scène nationale;;7, rue Jeanne d’Arc;;55000;BAR LE DUC;5.161136;48.77680399999999;48.77680399999999,5.161136;48.776736, 5.161345;48.776804, 5.161136;Grand Est
+Scène Nationale;Espace des Arts - Scène nationale;;5 bis, avenue Nicéphore;;71100;Chalon-sur-Saône;4.850058;46.778951;46.778951,4.850058;46.779485, 4.849123;46.778951, 4.850058;Bourgogne-Franche-Comté
+Scène Nationale;La Coursive - Scène nationale;;4, rue Saint-Jean-du-Pérot;;17000;LA ROCHELLE Cedex 01;-1.17311;46.159895;46.159895,-1.17311;46.156657, -1.154697;46.159895, -1.17311;Nouvelle-Aquitaine
+Scène Nationale;Le Volcan - Scène nationale;;Espace Oscar Niemeyer;BP 1106;76000;LE HAVRE Cedex;0.125713;49.51026600000002;49.51026600000002,0.125713;;49.510266, 0.125713;Normandie
+Scène Nationale;Le Théâtre - Scène Nationale;;1511, avenue Charles de Gaulle;;71000;MACON;4.8365;46.315320999999976;46.315320999999976,4.8365;46.316086, 4.836865;46.315321, 4.8365;Bourgogne-Franche-Comté
+Scène Nationale;Théâtre 71 - Scène nationale;;3, place du 11 Novembre;;92240;MALAKOFF;2.302274;48.821289;48.821289,2.302274;48.821161, 2.30155;48.821289, 2.302274;Île-de-France
+Scène Nationale;Théâtre des Salins - Scène nationale;;19, quai Paul Doumer;BP 75;13692;MARTIGUES Cedex;5.051029;43.406800999999994;43.406800999999994,5.051029;;43.406801, 5.051029;Provence-Alpes-Côte d'Azur
+Scène Nationale;Le Manège - Scène nationale;;Rue de la Croix;B P 105;59602;MAUBEUGE Cedex;3.9763339999999996;50.276754999999994;50.276754999999994,3.9763339999999996;;50.276755, 3.976334;Hauts-de-France
+Scène Nationale;L’Hexagone  - Scène Nationale;;24, rue des Aiguinards;;38240;MEYLAN;5.764283;45.205983;45.205983,5.764283;45.206601, 5.763817;45.205983, 5.764283;Auvergne-Rhône-Alpes
+Scène Nationale;La Filature - Scène nationale;;20, allée Nathan Katz;;68090;MULHOUSE Cedex;7.351713000000001;47.75726;47.75726,7.351713000000001;;47.75726, 7.351713;Grand Est
+Scène Nationale;Le Théâtre - Scène Nationale;;2, avenue Domitius;;11100;NARBONNE;2.998854;43.20257;43.20257,2.998854;43.180232, 3.014167;43.20257, 2.998854;Occitanie
+Scène Nationale;Théâtre de Cornouaille - Scène nationale de Quimper;;1, esplanade François Mitterrand;;29000;QUIMPER Cedex;-4.085539;47.963675999999985;47.963675999999985,-4.085539;47.995959, -4.109662;47.963676, -4.085539;Bretagne
+Scène Nationale;La Passerelle - Scène nationale de Saint-Brieuc;;Place de la Résistance;BP 4133;22000;SAINT-BRIEUC Cedex 2;-2.76169;48.513749000000004;48.513749000000004,-2.76169;48.513807, -2.761383;48.513749, -2.76169;Bretagne
+Scène Nationale;Les Gémeaux - Scène nationale;;49, avenue Georges Clemenceau;;92330;SCEAUX;2.306596;48.78380600000002;48.78380600000002,2.306596;48.7839, 2.306475;48.783806, 2.306596;Île-de-France
+SMAC;L'Autre Canal;;45 boulevard d'Austrasie;;54000;NANCY;;;;48.692926, 6.19955;48.692926, 6.19955;Grand Est
+SMAC;SMAC d'agglomération Bordelaise : Théatre Barbey;Parallèles Attitudes Diffusion;18, cours Barbey;;33800;BORDEAUX;;;;44.827168, -0.56335;44.827168, -0.56335;Nouvelle-Aquitaine
+SMAC;L'Ampli;Ampli Association;Allée Montesquieu;;64140;BILIERE;;;;43.302274, -0.39902;43.302274, -0.39902;Nouvelle-Aquitaine
+SMAC;"SMAC départementale Landes :
+Café Music
+
+LMA";AMAC / LMA;;;;Mont de Marsan |Saint Vincent de Tyrosse;;;;43.655576, -1.301236;43.655576, -1.301236;Nouvelle-Aquitaine
+SMAC;La Tannerie;La truffe et les oreilles;123, place de la Vinaigrerie;C/o association la Truffe et les Oreilles,;1000;BOURG-EN-BRESSE;;;;46.199298, 5.225348;46.199298, 5.225348;Auvergne-Rhône-Alpes
+SMAC;La Luciole;Association Eurêka;171, rue de Bretagne;;61000;ALENCON;;;;48.432758, 0.069102;48.432758, 0.069102;Normandie
+SMAC;Le 106;106 REM;Quai Jean de Béthencourt;;76100;ROUEN;;;;49.434994, 1.09277;49.434994, 1.09277;Normandie
+SMAC;La Rodia;;Avenue de Chardonnet;;25000;BESANCON;;;;47.232913, 6.038004;47.232913, 6.038004;Bourgogne-Franche-Comté
+SMAC;La Citrouille;La Citrouille;Place Nina Simone;;22000;SAINT BRIEUC;;;;48.518597, -2.760913;48.518597, -2.760913;Bretagne
+SMAC;Run Ar Puns;Association Rapass;Route de Pleyben;;29150;CHATEAULIN;;;;48.20692, -4.070646;48.20692, -4.070646;Bretagne
+SMAC;Le Jardin Moderne (projet SMAC d’agglomération rennaise);association Le Jardin Moderne;11, rue du Manoir de Servigné;;35000;RENNES;;;;48.102259, -1.725756;48.102259, -1.725756;Bretagne
+SMAC;L'Astrolabe;Association Antirouille;1, rue Alexandre Avisse;C/O association l' Antirouille;45000;ORLEANS;;;;47.903267, 1.892976;47.903267, 1.892976;Centre-Val de Loire
+SMAC;Le Petit Faucheux;Le Petit Faucheux;12, rue Léonard de Vinci;;37000;TOURS;;;;47.390928, 0.683029;47.390928, 0.683029;Centre-Val de Loire
+SMAC;Temps Machine;Travaux Publics;45-49 rue des Martyrs;Parvis Miles Davis;37300;JOUE-LES-TOURS;;;;47.351975, 0.665148;47.351975, 0.665148;Centre-Val de Loire
+SMAC;Espace Michel Berger (EMB);ADAME Association pour le développement et l'aide aux musiques électroniques;2, rue Georges Pompidou;;95110;SANNOIS;;;;48.973023, 2.262891;48.973023, 2.262891;Île-de-France
+SMAC;L'Usine à chapeau;Maison des jeunes et de la culture de Rambouillet, Centre social l'Usine à Chapeaux;C/O MJC 32, rue Gambetta;;78120;RAMBOUILLET;;;;48.646114, 1.826622;48.646114, 1.826622;Île-de-France
+SMAC;L 'Aéronef;Les Spectacles sans gravités;Avenue Willy Brandt, 168;Centre Commercial;59777;LILLE;;;;50.636617, 3.074141;50.636617, 3.074141;Hauts-de-France
+SMAC;L'Ouvre- Boîte;ASCA Association culturelle Argentine;8, avenue de Bourgogne;BP 802;60000;BEAUVAIS;;;;49.437982, 2.099627;49.437982, 2.099627;Hauts-de-France
+SMAC;Les Passagers du Zinc;association Des Deux Mains;23 route de Montfavet;;84000;AVIGNON;;;;43.942012, 4.823053;43.942012, 4.823053;Provence-Alpes-Côte d'Azur
+SMAC en cours de labellisation;"SMAC S2M (Scènes de Musiques Métropolitaines) :
+ L’Epicerie Moderne / Le Periscope /
+Le Marché Gare / Bizarre !";"Association Musiques Acutelles à Feyzin /
+association Rassemblement d’Energies pour la Sauvegarde d’un Espace Artistique Utopique / association MJC Presqu’ile Confluence / Association Bizarre !";;;;FEYZIN | LYON |LYON |VENISSIEUX;;;;45.676426, 4.860811;45.676426, 4.860811;Auvergne-Rhône-Alpes
+FRAC;Fonds régional d'art contemporain AUVERGNE;;1, rue Barbançon;;63000;CLERMONT-FERRAND;;;;45.778372, 3.086687;45.778372, 3.086687;Auvergne-Rhône-Alpes
+FRAC;Fonds régional d'art contemporain CENTRE;;12, rue de la Tour-Neuve;;45000;ORLÉANS;;;;47.899084, 1.913643;47.899084, 1.913643;Centre-Val de Loire
+FRAC;Fonds régional d'art contemporain CHAMPAGNE-ARDENNE;;Le Collège - 1, place Museux;;51100;REIMS;;;;49.246527, 4.040071;49.246527, 4.040071;Grand Est
+FRAC;Fonds régional d'art contemporain HAUTE-NORMANDIE;TRAFIC;3, place des Martyrs de la Résistance;;76300;SOTTEVILLE-LES-ROUEN;;;;49.419716, 1.078267;49.419716, 1.078267;Normandie
+FRAC;Fonds régional d'art contemporain LIMOUSIN;;"""Les Coopérateurs"" - Impasse des Charentes";;87100;LIMOGES;;;;45.858524, 1.255511;45.858524, 1.255511;Nouvelle-Aquitaine
+FRAC;Fonds régional d'art contemporain PAYS-DE-LA-LOIRE;;La Fleuriaye;;44470;CARQUEFOU;;;;47.301234, -1.504373;47.301234, -1.504373;Pays de la Loire
+FRAC;Fonds régional d'art contemporain PROVENCE-ALPES-CÔTE D'AZUR;;1, place Francis-Chirat;;13002;MARSEILLE;;;;43.300923, 5.367292;43.300923, 5.367292;Provence-Alpes-Côte d'Azur
+Centre Dramatique National;THEATRE DE DIJON-BOURGOGNE;;Théâtre du Parvis Saint-Jean;B.P. 72936;21029;DIJON CEDEX;5.040892;47.34091400000002;47.34091400000002,5.040892;;47.340914, 5.040892;Bourgogne-Franche-Comté
+Centre Dramatique National;THEATRE DU NORD;;4, place du Général de Gaulle;B.P. 302;59026;LILLE CEDEX;3.0632759999999997;50.63747000000001;50.63747000000001,3.0632759999999997;;50.63747, 3.063276;Hauts-de-France
+Centre Dramatique National;THEATRE DE L’UNION;CENTRE DRAMATIQUE NATIONAL DU LIMOUSIN;20, rue des Coopérateurs;B.P. 206;87006;LIMOGES CEDEX;1.254636;45.836451000000004;45.836451000000004,1.254636;;45.836451, 1.254636;Nouvelle-Aquitaine
+Centre Dramatique National;THEATRE DE LA MANUFACTURE;CENTRE DRAMATIQUE NATIONAL DE NANCY LORRAINE;10, rue Baron-Louis;B.P. 3349;54014;NANCY CEDEX;6.171049000000001;48.69574000000001;48.69574000000001,6.171049000000001;;48.69574, 6.171049;Grand Est
+Centre Dramatique National;CENTRE DRAMATIQUE NATIONAL D’ORLEANS;;Carré Saint-Vincent;;45000;ORLEANS;1.916929;47.91864699999999;47.91864699999999,1.916929;47.904183, 1.91292;47.918647, 1.916929;Centre-Val de Loire
+Centre Dramatique National;LES TRETEAUX DE FRANCE;;11, rue Yvon Villarceau;;75116;PARIS;2.287224;48.86865;48.86865,2.287224;48.864272, 2.271028;48.86865, 2.287224;Île-de-France
+Centre Dramatique National;THEATRE JEUNE PUBLIC;;1, rue du Pont Saint-Martin;;67000;STRASBOURG;7.7434389999999995;48.580174;48.580174,7.7434389999999995;48.580238, 7.743456;48.580174, 7.743439;Grand Est
+Centre Dramatique Régional;ATELIER DU RHIN - CENTRE DRAMATIQUE REGIONAL D’ALSACE;;6, route d’Ingersheim;B.P. 593;68008;COLMAR CEDEX;7.352648;48.081984;48.081984,7.352648;;48.081984, 7.352648;Grand Est
+Centre Dramatique Régional;CENTRE DRAMATIQUE REGIONAL DE POITOU-CHARENTES;;66, boulevard Pont Achard;B.P. 504;86012;POITIERS CEDEX;0.32909399999999994;46.57503900000002;46.57503900000002,0.32909399999999994;;46.575039, 0.329094;Nouvelle-Aquitaine
+Centre Dramatique Régional;CENTRE DRAMATIQUE REGIONAL DE TOURS;Nouvel Olympia;7, rue de Lucé;;37000;TOURS;0.688842;47.39349500000002;47.39349500000002,0.688842;47.393664, 0.688597;47.393495, 0.688842;Centre-Val de Loire
+Orchestre Permanent;Orchestre de Bretagne;;42 A, rue Saint Mélaine;B.P 30 823;35108;RENNES cedex 3;-1.675051;48.11478900000001;48.11478900000001,-1.675051;;48.114789, -1.675051;Bretagne
+Orchestre Permanent;Ensemble Intercontemporain;;223, avenue Jean Jaurès;;75019;PARIS;2.394225;48.88929100000001;48.88929100000001,2.394225;48.889292, 2.393954;48.889291, 2.394225;Île-de-France
+Orchestre Permanent;Orchestre de Picardie;;45, rue Pointin;;80040;Amiens cedex 01;2.311338;49.885532000000005;49.885532000000005,2.311338;;49.885532, 2.311338;Hauts-de-France
+Orchestre Permanent;Orchestre de Poitou-Charentes;;9 rue du Général Berton;BP 422;86011;Poitiers Cedex;0.34268;46.58498800000001;46.58498800000001,0.34268;;46.584988, 0.34268;Nouvelle-Aquitaine
+Centre d’art;PARC SAINT LEGER;CENTRE D'ART CONTEMPORAIN;Avenue Conti;;58320;POUGUES-LES-EAUX;;;;47.078946, 3.099219;47.078946, 3.099219;Bourgogne-Franche-Comté
+Centre d’art;LE CONSORTIUM;CENTRE D'ART CONTEMPORAIN;37, rue de Longvic;;21000;DIJON;;;;47.313218, 5.045699;47.313218, 5.045699;Bourgogne-Franche-Comté
+Centre d’art;CENTRE DE RECHERCHE ET DE DIFFUSION DE;L'ART CONTEMPORAIN - CREDAC;;Galerie Fernand Léger;94200;IVRY-SUR-SEINE;;;;48.813298, 2.387205;48.813298, 2.387205;Île-de-France
+Centre d’art;CENTRE D'ART CONTEMPORAIN;Le LAIT;35, rue Chambre de l'Edit;;81100;CASTRES;;;;43.604466, 2.238475;43.604466, 2.238475;Occitanie
+Centre d’art;ESPACE CROISÉ;;Grand Place;;59100;ROUBAIX;;;;50.691297, 3.173994;50.691297, 3.173994;Hauts-de-France
+Centre chorégraphique national;Centre chorégraphique national de Grenoble;;4, rue Paul Claudel;BP 2448;38034;Grenoble cedex 2;5.732392;45.17164;45.17164,5.732392;;45.17164, 5.732392;Auvergne-Rhône-Alpes
+Centre chorégraphique national;Centre chorégraphique national du Havre Haute-Normandie;;30, rue des Briquetiers;;76600;Le Havre;0.13529699999999997;49.492759;49.492759,0.13529699999999997;49.492636, 0.134967;49.492759, 0.135297;Normandie
+Centres nationaux de création musicale;GRAME;;9 Rue du Garet;BP 1185;69202;Lyon Cedex 01;4.836826;45.766746;45.766746,4.836826;;45.766746, 4.836826;Auvergne-Rhône-Alpes
+Centres nationaux de création musicale;La Muse en Circuit;;18, rue Marcelin Berthelot;;94140;Alfortville;2.412615;48.813405;48.813405,2.412615;48.813297, 2.412578;48.813405, 2.412615;Île-de-France
+Centre national des arts de la rue;L'Abattoir;;52, quai Saint Cosme;;71100;CHALON-SUR-SAONE;4.846402000000001;46.77560799999999;46.77560799999999,4.846402000000001;46.775136, 4.84575;46.775608, 4.846402;Bourgogne-Franche-Comté
+Centre national des arts de la rue;Pronomades;;rue de la Fontaine;;31160;ENCAUSSE LES THERMES;0.740651;43.049064999999985;43.049064999999985,0.740651;43.049882, 0.742395;43.049065, 0.740651;Occitanie
+Centre de développement chorégraphique;Art Danse Bourgogne;;;;21000;DIJON;;;;47.322982, 5.041742;47.322982, 5.041742;Bourgogne-Franche-Comté
+Centre de développement chorégraphique;Danse à Lille;;;;59170;ROUBAIX;;;;50.688421, 3.150329;50.688421, 3.150329;Hauts-de-France
+Centre de développement chorégraphique;Centre de développement chorégraphique Toulouse / midi-Pyrénées;;;;31300;TOULOUSE;;;;43.604268, 1.441019;43.604268, 1.441019;Occitanie
+Pôle cirque;La Verrerie d'Alès;;Chemin de St Raby;BP 20263;30100;ALES;;;;44.12818, 4.065853;44.12818, 4.065853;Occitanie
+Pôle cirque;Le Cirque-Théâtre d’Elbeuf;;2 Rue Augustin Henry;BP 80356;76500;ELBEUF;;;;49.290545, 1.010811;49.290545, 1.010811;Normandie
+Pôle cirque;Le Carré Magique;;Parvis des Droits de l'Homme;;22300;LANNION;;;;;;
